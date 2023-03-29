@@ -11,7 +11,7 @@ import java.util.Scanner;
  * smallest numbers entered.
  */
 
-public class LargestAndSmallest {
+public class LargestAndSmallest 
 
 	public static void main(String[] args) {
 		
